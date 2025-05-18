@@ -20,4 +20,5 @@ Deploy a full Ethereum Sepolia Execution + Consensus node in **one click** using
 Run this command on a fresh VPS:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/yourusername/sepolia-node-setup/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/MeG0302/Sepolia-node-deployment-script/main/setup.sh)
+
