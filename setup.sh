@@ -142,3 +142,7 @@ sudo ufw reload || true
 
 echo "Setup complete! Your Sepolia node is running."
 echo "Check logs with: sudo docker compose logs -f"
+
+# Tail logs automatically after setup
+cd /root/ethereum
+docker compose logs -f
